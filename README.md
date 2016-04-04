@@ -1,2 +1,3 @@
 # hello-world
-some repository
+
+Here are some new comments in the readme file.
